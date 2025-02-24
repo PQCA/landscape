@@ -52,6 +52,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/facebook
             homepage_url: https://www.meta.com/
             logo: meta.svg
+          - name: QANplatform
+            description: QANplatform is the quantum-resistant Layer 1 hybrid blockchain platform that will allow developers and enterprises to build quantum-resistant: smart contract, DApp, DeFi, DAO, token, CBDC, NFT, Metaverse, and Web3 solutions on top of the QAN blockchain platform in any programming language.
+            homepage_url: https://www.qanplatform.com/
+            logo: qanplatform.svg
           - name: QRL Foundation
             description: Die QRL Stiftung, known as The QRL Foundation, is a Swiss non-profit organisation founded to build post-quantum secure technologies in the blockchain space
             homepage_url: https://qrl.foundation
