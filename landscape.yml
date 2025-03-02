@@ -182,6 +182,17 @@ landscape:
             organization:
               name: CRYPTOGRAPGHY DEVELOPMENT INITIATIVE IN NIGERIA
           - item:
+            name: Quantum Village (member)
+            homepage_url: https://quantumvillage.org/
+            logo: quantum_village.svg
+            description: Quantum Village is a non-profit community dedicated to fostering engagement and discourse around quantum technologies and cybersecurity, particularly at events
+              like DEF CON, while exploring their implications for technology, culture, and society.
+            organization:
+              name: Quantum Village
+              linkedin: https://www.linkedin.com/company/quantumvillage
+            extra:
+              linkedin_url: https://www.linkedin.com/company/quantumvillage
+          - item:
             name: Rensselaer Polytechnic Institute (member)
             homepage_url: https://rpi.edu/
             logo: rensselaer_polytechnic_institute.svg
