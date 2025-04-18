@@ -107,15 +107,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/intellecteu
           - item:
-            name: Keyfactor (member)
-            homepage_url: https://keyfactor.com/
-            logo: keyfactor.svg
-            description: Control your cryptography with Keyfactor, the leader in PKI as-a-Service and crypto-agility solutions for a cloud-first world.
-            crunchbase: https://www.crunchbase.com/organization/certified-security-solutions
-            twitter: https://twitter.com/Keyfactor
-            extra:
-              linkedin_url: https://www.linkedin.com/company/wearekeyfactor
-          - item:
             name: Meta Platforms, Inc. (member)
             homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
